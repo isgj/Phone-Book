@@ -1,0 +1,7 @@
+"debug server":
+	path: "debug/server_x86_64"
+	cwd: "."
+
+"debug client":
+	path: "debug/client_x86_64"
+	cwd: "."
